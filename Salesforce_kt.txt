@@ -1,5 +1,6 @@
 https://orgfarm-791a0d3034-dev-ed.develop.my.salesforce.com/
 https://pranab-791a0d3034-dev-ed.develop.lightning.force.com/lightning/o/Account/list?filterName=__Recent
+pranab.sahoo63731@agentforce.com
 
 
 
@@ -10,4 +11,5 @@ D4-https://www.youtube.com/watch?v=2Jwe7L0fYO8
 D5- https://www.youtube.com/watch?v=d1AiBACIedE
 D6- https://www.youtube.com/watch?v=RnmdO_-4JUA
 D7-  https://www.youtube.com/watch?v=OAYFy6PrD2U
+
 
